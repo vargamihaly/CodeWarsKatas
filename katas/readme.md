@@ -1,5 +1,3 @@
-# CodeWarsKatas
-
 #### CreatePhoneNumber
 
 > Your task is to make function, which returns the sum of a sequence of integers.
@@ -23,3 +21,8 @@
 > Please keep in mind that the test cases ensure that the number of people in the bus is always >= 0. So the return integer can't be negative.
 > The second value in the first integer array is 0, since the bus is empty in the first bus stop.
 
+
+#### SortTheOdd
+
+> You will be given an array of numbers.You have to sort the odd numbers in ascending order while
+> leaving the even numbers at their original positions.
