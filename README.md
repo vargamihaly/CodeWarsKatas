@@ -2,7 +2,7 @@
 
 Aim of this repository is to upload solutions to challenges, called _Kata_, completed on _codewars.com_ using C# .
 
-![](https://www.dropbox.com/s/i7uzk4am8k7cdh3/sweet.gif?raw=1)
+![](https://i.imgur.com/Z4r4lZg.gif)
 
 ## Purpose
 
